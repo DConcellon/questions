@@ -3,8 +3,8 @@
         "response_code": 0,
         "results": [
             {
-                "question": "What is the scientific name for modern day humans?",
-                "correct_answer": "Homo Sapiens",
+                "question": "What is the scientific name for modern day a?",
+                "correct_answer": "Homo a",
                 "incorrect_answers": [
                     "Homo Ergaster",
                     "Homo Erectus",
@@ -17,8 +17,8 @@
         "response_code": 0,
         "results": [
             {
-                "question": "What is the scientific name for modern day humans?",
-                "correct_answer": "Homo Sapiens",
+                "question": "What is the scientific name for modern day b?",
+                "correct_answer": "Homo b",
                 "incorrect_answers": [
                     "Homo Ergaster",
                     "Homo Erectus",
@@ -31,8 +31,8 @@
         "response_code": 0,
         "results": [
             {
-                "question": "What is the scientific name for modern day humans?",
-                "correct_answer": "Homo Sapiens",
+                "question": "What is the scientific name for modern day c?",
+                "correct_answer": "Homo c",
                 "incorrect_answers": [
                     "Homo Ergaster",
                     "Homo Erectus",
